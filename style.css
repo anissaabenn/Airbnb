@@ -1,0 +1,198 @@
+.firstlogo {
+    width:150px;
+    height: 80px;
+}
+.searchbar {
+
+}
+.world {
+    width: 50px;
+    height: 40px;
+}
+
+.hote {
+
+}
+
+.connexion {
+    width: 40px;
+    height: 40px;
+}
+
+.logo1 {
+    background-image: url(https://a0.muscache.com/pictures/50861fca-582c-4bcc-89d3-857fb7ca6528.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo2 {
+    background-image: url(https://a0.muscache.com/pictures/677a041d-7264-4c45-bb72-52bff21eb6e8.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo3 {
+    background-image: url(https://a0.muscache.com/pictures/c0a24c04-ce1f-490c-833f-987613930eca.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo4 {
+    background-image: url(https://a0.muscache.com/pictures/732edad8-3ae0-49a8-a451-29a8010dcc0c.jpg );
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo5 {
+    background-image: url(https://a0.muscache.com/pictures/8e507f16-4943-4be9-b707-59bd38d56309.jpg );
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo6 {
+    background-image: url(https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo7 {
+    background-image: url(https://a0.muscache.com/pictures/35919456-df89-4024-ad50-5fcb7a472df9.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo8 {
+    background-image: url(https://a0.muscache.com/pictures/c5a4f6fc-c92c-4ae8-87dd-57f1ff1b89a6.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo9 {
+    background-image: url(https://a0.muscache.com/pictures/ca25c7f3-0d1f-432b-9efa-b9f5dc6d8770.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo10 {
+    background-image: url(https://a0.muscache.com/pictures/3fb523a0-b622-4368-8142-b5e03df7549b.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo11 {
+    background-image: url(https://a0.muscache.com/pictures/50861fca-582c-4bcc-89d3-857fb7ca6528.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo12 {
+    background-image: url(https://a0.muscache.com/pictures/8b44f770-7156-4c7b-b4d3-d92549c8652f.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo13 {
+    background-image: url(https://a0.muscache.com/pictures/33dd714a-7b4a-4654-aaf0-f58ea887a688.jpg);
+    height: 50px;             
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1 {
+    background-image: url(https://a0.muscache.com/im/pictures/168fc8be-b554-4451-9b38-e7464bfb2e9a.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box2 {
+    background-image: url(https://a0.muscache.com/im/pictures/miso/Hosting-49227437/original/7cf358b9-e8c5-4067-9ac5-014784387e22.jpeg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box3 {
+    background-image: url(https://a0.muscache.com/im/pictures/bd67daca-84a4-44e9-952d-11162ba76242.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box4 {
+    background-image: url(https://a0.muscache.com/im/pictures/a50d5639-bc18-45fa-af1b-48092414b6da.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box5 {
+    background-image: url(https://a0.muscache.com/im/pictures/bd67daca-84a4-44e9-952d-11162ba76242.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box6 {
+    background-image: url(https://a0.muscache.com/im/pictures/4d268e76-949f-4de7-a10b-b4b48ea3355d.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box7 {
+    background-image: url(https://a0.muscache.com/im/pictures/373443ec-b377-4181-b753-3a2f3508c2b3.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+.box8 {
+    background-image: url(https://a0.muscache.com/im/pictures/afd60c19-8f7f-4955-8f23-c457d132a8c4.jpg?im_w=720);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    border-radius: 5%;
+}
+
+footer {
+background-color: rgb(238, 231, 231);
+position: fixed;
+bottom:0;
+width:100%;
+padding-top:10px;
+height:30px;
+
+}
